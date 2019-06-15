@@ -20,6 +20,15 @@ body {
   color: white;
 }
 
+.behindHeader {
+  position: fixed;
+  left: 0;
+  top: 0;
+  padding: 44.5px;
+  width: 100%;
+  background-color: white;
+}
+
 .footer {
   position: fixed;
   left: 0;
