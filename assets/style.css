@@ -10,6 +10,16 @@ body {
     background-color: #dddddd;
 }
 
+.behindFooter {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  height: 20px;
+  width: 100%;
+  background-color: #4aaaa5;
+  color: white;
+}
+
 .footer {
   position: fixed;
   left: 0;
@@ -155,10 +165,10 @@ input[type=submit]:hover {
 /* Portfolio CSS */
 
 .portfolio {
-    margin: 0 auto;
-    background-color: #ffffff;  
-    padding: 10px;
-    width: 960px;
+  margin: 0 auto;
+  background-color: #ffffff;  
+  padding: 10px;
+  width: 960px;
 }
 
 .images {
